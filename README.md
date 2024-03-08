@@ -37,6 +37,7 @@ Examples for conditional looping
 25. [Handling Errors](#Handling-errors)
 
 
-26. [Classes](#Classes)
-    27. [Defining a Class](#Defining-a-class)
-    28. [Inheritance of Classes](#Inheritance-of-classes)
+[Classes](#Classes)
+    
+    26. [Defining a Class](#Defining-a-class)
+    27. [Inheritance of Classes](#Inheritance-of-classes)
