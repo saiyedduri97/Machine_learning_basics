@@ -3,14 +3,17 @@
 
 # Python notes include:
 
-1. [Writing Print Statement in Python](#Writing-print-statement-in-python)
-2. [Writing Functions with Rules for Positional and Keyword Arguments](#Writing-functions-with-rules-for-positional-and-keyword-arguments)
-3. [Fundamental Python Concepts](#Fundamental-Python-concepts)
-4. [Data Converters](#Data-converters)
-5. [Identifiers](#Identifiers)
-6. [Access to Variables](#Access-to-variables)
-7. [Indexing](#INDEXING)
-8. [Some Popular Builtin Functions Useful for Programming](#Some-popular-builtin-functions-useful-for-programming)      
+
+1. [Norms of Programming](#Norms-of-Programming)
+2. [Writing Print Statement in Python](#Writing-print-statement-in-python)
+3. [Writing Functions with Rules for Positional and Keyword Arguments](#Writing-functions-with-rules-for-positional-and-keyword-arguments)
+4. [Fundamental Python Concepts](#Fundamental-Python-concepts)
+5. [Data Converters](#Data-converters)
+6. [Identifiers](#Identifiers)
+7. [Access to Variables](#Access-to-variables)
+8. [Indexing](#INDEXING)
+9. [Some Popular Builtin Functions Useful for Programming](#Some-popular-builtin-functions-useful-for-programming)
+
 
 Examples for conditional statements  
 
