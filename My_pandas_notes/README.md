@@ -1,33 +1,32 @@
 ## My-python-notes
-# Pandas notes include:
 
-1. [Writing Print Statement in Python](#Writing-print-statement-in-python)
-2. [Writing Functions with Rules for Positional and Keyword Arguments](#Writing-functions-with-rules-for-positional-and-keyword-arguments)
-3. [Fundamental Python Concepts](#Fundamental-Python-concepts)
-4. [Data Converters](#Data-converters)
-5. [Identifiers](#Identifiers)
-6. [Access to Variables](#Access-to-variables)
-7. [Indexing](#INDEXING)
-8. [Some Popular Builtin Functions Useful for Programming](#Some-popular-builtin-functions-useful-for-programming)      
+# Description: 
+        "pandas-notes.ipynb" file includes necessary functions for data analysis of various datasets
 
-Examples for conditional statements  
+# Table of Contents:
 
-9. [Roll of 2 Dices](#Roll-of-two-dices)
-10. [Condition Statement for Temperature Recording](#Condition-statement-for-temperature-recording)
-11. [Conditional Statement for Credit Line of Buyer](#Conditional-statement-for-credit-line-of-buyer)
-12. [Conditional Statement for Eligibility of Loan based on Boolean Variables](#Conditional-statement-for-eligibility-of-loan-based-on-boolaean-variables)
-13. [Number of Characters](#Number-of-charcters)
-14. [Unit Converter](#Unit-Converter)
-15. [Patterns](#Patterns)
-16. [Lottery Game](#Lottery-game)
-17. [Start/Stop the Car through a Chain of Conditional Commands](#Start/Stop-the-car-through-a-chain-of-conditional-commands)
+1. DataFrame:
 
-Examples for conditional looping
+    1. [Creating DataFrame](#Creating-DataFrame:)  
+    2. [Creating Series](#Creating-Series:) 
+    3. [Reading a DataFrame](#Reading-DataFiles:)
+    4. [Check descriptive statistics of DataFrame](#Know-descriptive-statistics-in-DataFrame:)
+    5. [Converting datatypes from one type to another](#Conversion-of-datatypes-from-one-dtype-to-another)
+    6. [Deleting a DataFrame](#Deleting-a-dataframe-to-save-memory-space)  
+2. Indexing:
 
-18. [Creating Patterns as per the Conditions](#Creating-patters-as-per-the-conditions)
-19. [Sort the List in Descending Order](#Sort-the-list-in-descending-order)
-20. [Accessing Elements in Matrices](#Accessing-elements-in-matrices)
-21. [Remove Repeating Elements from a List of Numbers](#Remove-repeating-elements-from-a-list-of-numbers)
-22. [Number to Words Converter](#Number-to-words-converter)
-23. [Emoji Converter](#Emoji-Converter)
-24. [Fibonacci Series](#Fibinocci-series)
+    1. [Indexing DataFrame](#Indexing-in-pandas)
+    2. [Label based Indexing](#Label-based-Indexing)
+    3. [Conditional Indexing](#Conditional-Indexing)  
+    4. [Identifying NaN values through indexing](#Identifying-nan-values:)  
+    5. [Repalcing NaN values](#Indentifying-NaN-values-and-replacing-them)
+3. Assigning indices:
+
+    1.[Assigning the value to the Series](#Assigning-data-to-the-Series:)   
+    2.[Renaming columns and index names](#Renaming-the-column-names,index-names)
+4. Mapping DataFrames:
+    1. [Summary Functions and Maps](#Summary-functions-and-maps:)
+5. Groupwise analysis:  
+    1.[Groupwise analysis with plots](#Groupwise-analysis:)
+6. Combine DataFrames:  
+    1.[Combining dataframes](#Combine-DataFrame/Series)
