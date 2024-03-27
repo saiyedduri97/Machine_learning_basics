@@ -1,7 +1,5 @@
 ## My-python-notes
-# Python notes for regular reference
-
-# Python notes include:
+# Pandas notes include:
 
 1. [Writing Print Statement in Python](#Writing-print-statement-in-python)
 2. [Writing Functions with Rules for Positional and Keyword Arguments](#Writing-functions-with-rules-for-positional-and-keyword-arguments)
