@@ -43,4 +43,5 @@ Classes
 28. [Classes](#Classes)
 29. [Defining a Class](#Defining-a-class)
 30. [Inheritance of Classes](#Inheritance-of-classes)
+31. [Inventory management system using encapsulation](#Inventory-management-system-using-encapsulation-with-a-Command-line-interface-for-the-user)
 
